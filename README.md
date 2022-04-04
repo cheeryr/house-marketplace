@@ -1,6 +1,6 @@
 Project deployed at: https://house-marketplace-ten-rust.vercel.app/
 
-![](https://imgur.com/mQ3llmy)
+![](house-marketplace.gif)
 
 # Getting Started with Create React App
 
